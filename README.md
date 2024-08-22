@@ -15,7 +15,7 @@ The Smart Parking Web Portal is a web-based application designed to manage and s
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, PHP
-- **Database:** MySQL
+-  HTML, CSS, JavaScript
+-  Python, PHP
+-  MySQL
 
